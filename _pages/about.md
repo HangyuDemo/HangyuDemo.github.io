@@ -9,6 +9,8 @@ redirect_from:
 
 Hi everyone! This is Hang Yu (Demo). Thank you guys so much for visiting my homepage. I received my undergraduate degree in Computer science from the University of Macau. I completed my graduation thesis in Jiantao Zhou's laboratory. I will receive my master's degree in Robotics and Autonomy Systems from Boston University.
 
+I'm still working on my page.
+
 [Academic Pages template](https://github.com/academicpages/academicpages.github.io) 
 
 
