@@ -1,3 +1,11 @@
+permalink: /
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 Hi everyone! This is Hang Yu (Demo). Thank you guys so much for visiting my homepage. I received my undergraduate degree in Computer science from the University of Macau. I completed my graduation thesis in Jiantao Zhou's laboratory. I will receive my master's degree in Robotics and Autonomy Systems from Boston University.
 
 I'm still working on my page.
