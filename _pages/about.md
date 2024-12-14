@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Hang Yu (Demo)"
 author_profile: true
 redirect_from:
   - /about/
