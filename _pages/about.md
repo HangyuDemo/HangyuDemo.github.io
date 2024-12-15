@@ -13,7 +13,7 @@ Hi everyone! This is Hang Yu (Demo). Thank you guys so much for visiting my home
 1. The application of diffusion model to robotics arm manipulation.
 1. The application of large language model in robot cooperation and joint work.
 
-[[Gmail](yh974125@gmail.com)] / [[Wechat](/images/wechat.jpg)] / [[CV](/assets/Resume.pdf)]
+[[Wechat](/images/wechat.jpg)] / [[CV](/assets/Resume.pdf)]
 
 
 Main experience
