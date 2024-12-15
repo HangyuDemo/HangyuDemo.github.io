@@ -14,11 +14,9 @@ Hi everyone! This is Hang Yu (Demo). Thank you guys so much for visiting my home
 
 I'm still working on my page.
 
-
-
 Main experience
 ======
-From May to August in the summer vacation of 2024, I will conduct research on the correlation between robotic arm control and cranioid nerves in the project of Dr. Chaoran Yang of Guangdong Institute of Intelligence Science and Technology.
+During the summer vacation from May to August 2023, I conducted a research on the correlation between robotic arm control and cranial nerves in the project of Dr. Yang Chaoran of Guangdong Institute of Intelligent Science and Technology.
 
 Getting started
 ======
