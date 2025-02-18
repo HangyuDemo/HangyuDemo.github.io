@@ -18,7 +18,9 @@ Hi everyone! This is Hang Yu (Demo). Thank you guys so much for visiting my home
 
 Main experience
 ======
-During the summer from May to August 2024, I conducted a research on the correlation between robotic arm control and neural computing in the lab of Dr.Chaoran Yang of Guangdong Institute of Intelligent Science and Technology.
+During the summer of 2024, from May to August, I conducted research on the correlation between robotic arm control and neural computing in the lab of Dr. Chaoran Yang at the Guangdong Institute of Intelligent Science and Technology.
+
+Currently, I am working at Autel Robotics in Shenzhen, China, where I focus on research related to robot collaboration. My work primarily involves using simulation environments like Isaac Lab to explore and develop techniques for improving inter-robot coordination and enhancing their collaborative capabilities.
 
 
 
