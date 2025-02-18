@@ -20,7 +20,7 @@ Main experience
 ======
 During the summer of 2024, from May to August, I conducted research on the correlation between robotic arm control and neural computing in the lab of Dr. Chaoran Yang at the Guangdong Institute of Intelligent Science and Technology.
 
-Currently, I am working at Autel Robotics in Shenzhen, China, where I focus on research related to robot collaboration. My work primarily involves using simulation environments like Isaac Lab to explore and develop techniques for improving inter-robot coordination and enhancing their collaborative capabilities.
+Currently, I am working at Autel in Shenzhen, China, where I focus on research related to robot collaboration. My work primarily involves using simulation environments like Isaac Lab to explore and develop techniques for improving inter-robot coordination and enhancing their collaborative capabilities.
 
 
 
