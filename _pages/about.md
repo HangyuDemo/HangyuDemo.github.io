@@ -7,12 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-Hi everyone! This is Hang Yu (Demo). Thank you guys so much for visiting my homepage. I received my Bachelor's degree in Computer science from the University of Macau. I completed my graduation thesis in Jiantao Zhou's laboratory. I will receive my Master's degree in Robotics and Autonomy Systems from Boston University.
+Hi everyone! This is Hang Yu (Demo). Thank you guys so much for visiting my homepage. I received my Bachelor's degree in Computer science from the University of Macau. I completed my graduation thesis in Jiantao Zhou's laboratory. I received my Master's degree in Robotics and Autonomy Systems from Boston University.
 
 **Research Interests** are at the intersection of artificial intelligence and robotic control. I'm particularly interested in
 1. The application of diffusion model to robotics arm manipulation.
-1. The application of large language model in robot cooperation and joint work.
-
+2. The application of large language model in robot cooperation and joint work.
+3. Robots collaboration (include Humanoid robot, quadruped robot).
 [[Wechat](/images/wechat.jpg)] / [[CV](/assets/Resume.pdf)]
 
 
