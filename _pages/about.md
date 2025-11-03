@@ -16,7 +16,7 @@ I received my **Bachelor’s degree in Computer Science** from the **University 
 
 ### 🧠 Research Interests
 
-My research lies at the intersection of **Embodied AI**, **robot learning**, and **computer vision**, with the goal of building intelligent systems that can *see, reason, and act* in the physical world.  
+My research lies at the intersection of **computer vision**, **generative AI** **robot learning**, and **Embodied AI**, with the goal of building intelligent systems that can *see, reason, and act* in the physical world.  
 
 I am particularly interested in:
 1. **Learning from Video for Robotic Control** – leveraging large-scale video data to teach robots visuomotor skills and motion imitation.  
