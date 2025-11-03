@@ -10,7 +10,7 @@ redirect_from:
 Hi everyone! I’m Hang Yu (Demo) — thanks so much for visiting my homepage.
 I received my Bachelor’s degree in Computer Science from the University of Macau, where I completed my undergraduate thesis in Prof. Jiantao Zhou’s laboratory. I later earned my Master’s degree in Robotics and Autonomous Systems from Boston University.
 
-Contact email: demoyu@bu.edu or yh974125@gmail.com
+📧 **Contact:** [demoyu@bu.edu](mailto:demoyu@bu.edu) | [yh974125@gmail.com](mailto:yh974125@gmail.com)
 
 **Research Interests** are at the intersection of artificial intelligence and robotic control. I'm particularly interested in
 1. Learning from Video for Robotic Control – using large-scale video data to teach robots visuomotor skills and motion imitation.
