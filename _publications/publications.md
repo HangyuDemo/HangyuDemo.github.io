@@ -5,7 +5,7 @@ layout: single
 
 ## Conference Papers
 1. **[MF-HDP2: Mean-Flow-Guided Hierarchical Diffusion Policy for Bimanual Manipulation]()**
-   **Hang Yu**<sup>\*</sup>, Zhixing Hou<sup>\*</sup>, <sup>†</sup>. *Will be submitted at the end of January* 
+   **Hang Yu**<sup>\*</sup>, Zhixing Hou<sup>†</sup>. *Will be submitted at the end of January* 
 
 1. **[GeCoR: Geometry and Contact-aware Representation for Hand-Object Interaction Video Generation]()**
    Haodong Yan<sup>\*</sup>, **Hang Yu**<sup>\*</sup>, Zhide Zhong, Weilin Yuan, Xin Gog, Zehang Luo, Chengxi Heyu, Junfeng Li, Wenxuan Song, Haoang Li<sup>†</sup>. *Under review* 
