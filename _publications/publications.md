@@ -7,7 +7,7 @@ layout: single
 1. **[MF-HDP2: Mean-Flow-Guided Hierarchical Diffusion Policy for Bimanual Manipulation]()**
    **Hang Yu**<sup>\*</sup>, Zhixing Hou<sup>†</sup>. *Coming soon* 
 
-1. **[Open-world Hand-Object Interaction Video Generation Based on Structure and Contact-aware Representation]()**
+1. **[Open-world Hand-Object Interaction Video Generation Based on Structure and Contact-aware Representation](https://arxiv.org/abs/2512.01677)**
    Haodong Yan<sup>\*</sup>, **Hang Yu**<sup>\*</sup>, Zhide Zhong, Weilin Yuan, Xin Gong, Zehang Luo, Chengxi Heyu, Junfeng Li, Wenxuan Song, Haoang Li<sup>†</sup>. *Under review* [[PDF](https://arxiv.org/abs/2512.01677)]
 
 1. **[SDP: Spiking Diffusion Policy for Robotic Manipulation with Learnable Channel-Wise Membrane Thresholds](https://arxiv.org/abs/2409.11195)** 
