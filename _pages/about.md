@@ -11,7 +11,7 @@ Hi everyone! I’m **Hang Yu (Demo)** — thank you for visiting my homepage.
 
 I received my **Bachelor’s degree in Computer Science** from the **University of Macau**, where I completed my undergraduate thesis under **Prof. Jiantao Zhou**. I later earned my **Master’s degree in Robotics and Autonomous Systems** from **Boston University**.
 
-I am currently a **PhD student in Computer Science at the University of Central Florida (UCF)**, advised by **[Prof. Yuanzhang Shang](https://42shawn.github.io/)**.
+I am currently a **PhD student in Computer Science at the University of Central Florida (UCF)**, advised by **[Prof. Yuzhang Shang](https://42shawn.github.io/)**.
 
 📧 **Contact:** [ha865618@ucf.edu](mailto:ha865618@ucf.edu) | [yh974125@gmail.com](mailto:yh974125@gmail.com)
 
@@ -34,7 +34,7 @@ I am particularly interested in:
 ### 💼 Research Experience
 
 **Research Assistant, Hong Kong University of Science and Technology (Guangzhou Campus)**  
-*May 2025 – Present*  
+*May – Dec 2025*  
 Working under **Prof. Haoang Li** on **Embodied AI** and **video generation**, exploring how visual world modeling and action grounding can enhance robot perception and generalization.
 
 **Research Assistant, Guangdong Institute of Intelligent Science and Technology**  
