@@ -11,7 +11,7 @@ Hi everyone! I’m **Hang Yu (Demo)** — thank you for visiting my homepage.
 
 I received my **Bachelor’s degree in Computer Science** from the **University of Macau**, where I completed my undergraduate thesis under **Prof. Jiantao Zhou**. I later earned my **Master’s degree in Robotics and Autonomous Systems** from **Boston University**.  
 
-I am currently a **PhD student in Computer Science at the University of Central Florida (UCF)**, advised by **Prof. Yuanzhang Shang** ([homepage](https://42shawn.github.io/)).
+I am currently a **PhD student in Computer Science at the University of Central Florida (UCF)**, advised by (**Prof. Yuanzhang Shang** (https://42shawn.github.io/)).
 
 📧 **Contact:** [ha865618@ucf.edu](mailto:ha865618@ucf.edu) | [yh974125@gmail.com](mailto:yh974125@gmail.com)
 
