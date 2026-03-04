@@ -39,6 +39,6 @@ Working under **Prof. Haoang Li**.
 
 **Research Assistant, Guangdong Institute of Intelligent Science and Technology**  
 *May – Aug 2024*  
-Worked in the **Lab of Brain-Inspired Open-World Intelligence Computing** under **Dr. Chaoran Yang** and **Zhixing Hou**.
+Worked in the **Lab of Brain-Inspired Open-World Intelligence Computing** under **Dr. Chaoran Yang** and **Dr. Zhixing Hou**.
 
 ---
