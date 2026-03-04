@@ -9,7 +9,9 @@ redirect_from:
 
 Hi everyone! I’m **Hang Yu (Demo)** — thank you for visiting my homepage.
 
-I received my **Bachelor’s degree in Computer Science** from the **University of Macau**, where I completed my undergraduate thesis under **Prof. Jiantao Zhou**. I later earned my **Master’s degree in Robotics and Autonomous Systems** from **Boston University**.
+I received my **Bachelor’s degree in Computer Science** from the **University of Macau**, where I completed my undergraduate thesis under **Prof. Jiantao Zhou**. 
+
+I earned my **Master’s degree in Robotics and Autonomous Systems** from **Boston University**.
 
 I am currently a **PhD student in Computer Science at the University of Central Florida (UCF)**, advised by **[Prof. Yuzhang Shang](https://42shawn.github.io/)**.
 
