@@ -13,7 +13,7 @@ I received my **Bachelor’s degree in Computer Science** from the **University 
 
 I earned my **Master’s degree in Robotics and Autonomous Systems** from **Boston University**.
 
-I am currently a **PhD student in Computer Science at the University of Central Florida (UCF)**, advised by **[Prof. Yuzhang Shang](https://42shawn.github.io/)**.
+I am currently a **PhD student in Computer Science at the University of Central Florida (UCF)**, co advised by **[Prof. Yuzhang Shang](https://42shawn.github.io/)** and **Mubarak Shah**.
 
 📧 **Contact:** [ha865618@ucf.edu](mailto:ha865618@ucf.edu) | [yh974125@gmail.com](mailto:yh974125@gmail.com)
 
