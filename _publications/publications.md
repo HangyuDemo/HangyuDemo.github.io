@@ -4,9 +4,6 @@ layout: single
 ---
 
 ## Conference Papers
-1. **[MF-HDP2: Mean-Flow-Guided Hierarchical Diffusion Policy for Bimanual Manipulation]()**
-   **Hang Yu**<sup>\*</sup>, Zhixing Hou<sup>†</sup>. *Coming soon* 
-
 1. **[Open-world Hand-Object Interaction Video Generation Based on Structure and Contact-aware Representation](https://arxiv.org/abs/2512.01677)**
    Haodong Yan<sup>\*</sup>, **Hang Yu**<sup>\*</sup>, Zhide Zhong, Weilin Yuan, Xin Gong, Zehang Luo, Chengxi Heyu, Junfeng Li, Wenxuan Song, Haoang Li<sup>†</sup>. *Under review* [[PDF](https://arxiv.org/abs/2512.01677)]
 
@@ -15,8 +12,5 @@ layout: single
 
 
 ## Journal Papers
-1. **[SpiDiP: A Spiking Distilled Diffusion Policy with ANN-to-SNN Visual Encoding]()**
-   Zhixing Hou<sup>\*</sup>, **Hang Yu**<sup>\*</sup>, Chio-In Ieong<sup>†</sup>. *Coming soon* 
-
 1. **[An Internet of Electronic-Visual Things Indoor Localization System Using Adaptive Kalman Filter](https://ieeexplore.ieee.org/document/10140186)**  
    Peng Qin, Quanyi Hu, **Hang Yu**, *IEEE Sensors Journal, 2023* [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10140186)]

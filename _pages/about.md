@@ -7,7 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-Hi everyone! I’m **Hang Yu (Demo)** — thank you for visiting my homepage.
+<div class="home-intro">
+<p class="eyebrow">Computer Vision · Robotics · Embodied AI</p>
+<h2>Building intelligent systems that see, reason, and act.</h2>
+<p>Hi everyone! I’m <strong>Hang Yu (Demo)</strong> — thank you for visiting my homepage.</p>
+<div class="intro-links">
+<a class="btn btn--primary" href="/assets/Resume.pdf">View my CV</a>
+<a class="btn btn--ghost" href="mailto:ha865618@ucf.edu">Get in touch</a>
+</div>
+</div>
 
 I received my **Bachelor’s degree in Computer Science** from the **University of Macau**, where I completed my undergraduate thesis under **Prof. Jiantao Zhou**. 
 
